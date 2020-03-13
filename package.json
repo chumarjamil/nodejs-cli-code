@@ -1,0 +1,20 @@
+{
+  "name": "iprice",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "./index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "process": "^0.11.10"
+  }
+}

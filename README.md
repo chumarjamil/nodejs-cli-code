@@ -1,14 +1,12 @@
-# Full Stack Developer Challenge
-This is an interview coding challenge from iprice.
+# Code Challenge iprice
 
 ## Installation Guide
-* open your favorite cmd tools
-  * git clone https://github.com/asadpstu/iprice.git iprice
-  * cd iprice
-  * npm install
-  * npm link   
-  * Kindly follow all the command sequencially  
+-- Command to do on your CLI
+- git clone linked github url
+- cd iprice
+- npm install
+- npm link  
 
-* Application is ready for testing
-  * type in your cmd => ::  iprice hello world  ::
-  * see the output
+-Application is ready for testing
+  - Type in your cli = iprice hello world
+  - See the console output

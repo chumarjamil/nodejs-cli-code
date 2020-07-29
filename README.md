@@ -1,4 +1,4 @@
-# Code Challenge iprice
+# Code Challenge
 
 ## Installation Guide
 -- Command to do on your CLI
